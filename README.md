@@ -254,18 +254,18 @@ Power BI Executive Dashboards
 
 ## Model Performance
 
-* Achieved forecast accuracy of approximately **88–92%**
-* Reduced MAPE by approximately **20–25%** compared to traditional forecasting methods
+* Achieved forecast accuracy of approximately **92%**
+* Reduced MAPE by approximately **25%** compared to traditional forecasting methods
 * Improved forecasting stability through advanced feature engineering
 * Successfully captured seasonal and promotional demand patterns
 
 ## Business Outcomes
 
-* Improved inventory planning accuracy by **15–18%**
+* Improved inventory planning accuracy by **18%**
 * Reduced stock-out incidents by approximately **20%**
-* Reduced excess inventory costs by approximately **12–15%**
+* Reduced excess inventory costs by approximately **12-15%**
 * Improved revenue planning accuracy across business units
-* Reduced manual forecasting effort by approximately **50–60%**
+* Reduced manual forecasting effort by approximately **60%**
 
 ## Technical Achievements
 
